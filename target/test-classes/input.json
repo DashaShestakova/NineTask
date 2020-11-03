@@ -1,0 +1,14 @@
+[
+  {
+    "name": "FIRST_SHIP",
+    "capacity": "2",
+    "container amount": "4",
+    "action type": "load"
+  },
+  {
+    "name": "SECOND_SHIP",
+    "capacity": "3",
+    "container amount": "2",
+    "action type": "unload load"
+  }
+]

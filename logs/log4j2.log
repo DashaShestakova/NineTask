@@ -1,0 +1,11 @@
+2020-11-03 22:57:15,783 INFO c.e.i.t.n.e.d.DockStorage [pool-2-thread-1] Dock 0 engaged
+2020-11-03 22:57:15,799 INFO c.e.i.t.n.e.Ship [pool-2-thread-1] The Ship FIRST_SHIP has unloaded to the dock 0
+2020-11-03 22:57:15,799 INFO c.e.i.t.n.e.d.DockStorage [pool-2-thread-2] Dock 1 engaged
+2020-11-03 22:57:15,807 INFO c.e.i.t.n.e.Ship [pool-2-thread-2] The Ship SECOND_SHIP has unloaded to the dock 1
+2020-11-03 22:57:15,809 INFO c.e.i.t.n.e.Ship [pool-2-thread-1] The ship FIRST_SHIP has left the berth # 0
+2020-11-03 22:57:15,818 INFO c.e.i.t.n.e.Ship [pool-2-thread-2] The ship SECOND_SHIP has unloaded container # 14
+2020-11-03 22:57:15,818 INFO c.e.i.t.n.e.Ship [pool-2-thread-2] The ship SECOND_SHIP has unloaded container # 15
+2020-11-03 22:57:15,818 INFO c.e.i.t.n.e.Ship [pool-2-thread-2] The ship SECOND_SHIP has loaded container0
+2020-11-03 22:57:15,818 INFO c.e.i.t.n.e.Ship [pool-2-thread-2] The ship SECOND_SHIP has loaded container1
+2020-11-03 22:57:15,818 INFO c.e.i.t.n.e.Ship [pool-2-thread-2] The ship SECOND_SHIP has loaded container2
+2020-11-03 22:57:15,818 INFO c.e.i.t.n.e.Ship [pool-2-thread-2] The ship SECOND_SHIP has left the berth # 1
